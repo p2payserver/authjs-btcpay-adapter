@@ -4,3 +4,5 @@ The required scopes for the api key are read and write invoices.
 The invoices created in these stores will be used as your db documents. 
 
 https://authjs.dev/guides/creating-a-database-adapter
+
+https://chatgpt.com/c/67e26c07-372c-8013-86c7-69c53d34be55
